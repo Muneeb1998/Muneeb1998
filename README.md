@@ -63,11 +63,11 @@ Let's connect and explore how I can contribute to your projects!
 
 ---
 
-### 📊 <span style="color:blue">Muneeb's GitHub Stats</span>:
+### 📊 ### 📊 GitHub Stats:
 
-![Muneeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb1998&show_icons=true&theme=radical)
+![Muneeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb1998&show_icons=true&theme=blueberry)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb1998&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb1998&layout=compact&theme=blueberry)
 
 ---
 
