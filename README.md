@@ -4,6 +4,8 @@
 I enjoy solving complex problems and collaborating with teams to bring innovative ideas to life.  
 Let's connect and explore how I can contribute to your projects!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Muneeb1998&label=Profile%20views&color=0e75b6&style=flat)
+
 ---
 
 ### 🚀 About Me
@@ -19,16 +21,16 @@ Let's connect and explore how I can contribute to your projects!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muneeb-mansoor/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" style="margin: 10px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.upwork.com/freelancers/~01ce924bcec6f4f6c6" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" alt="Upwork" style="margin: 10px;"/>
+    <img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" alt="Upwork" />
   </a>
   <a href="https://muneeb-dev.me" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" alt="Website" style="margin: 10px;"/>
+    <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" alt="Website" />
   </a>
   <a href="mailto:muneebmansoor98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" style="margin: 10px;"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
