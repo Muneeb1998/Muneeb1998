@@ -24,8 +24,6 @@ Let's connect and explore how I can contribute to your projects!
   <a href="https://www.upwork.com/freelancers/~01ce924bcec6f4f6c6" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" alt="Upwork" style="margin: 10px;"/>
   </a>
-</p>
-<p align="center">
   <a href="https://muneeb-dev.me" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" alt="Website" style="margin: 10px;"/>
   </a>
@@ -46,13 +44,26 @@ Let's connect and explore how I can contribute to your projects!
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=white" alt="Shopify"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white" alt="Figma"/>
+  <img src="https://img.shields.io/badge/CI/CD-0A0A0A?logo=jenkins&logoColor=white" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/OOP-000000?logo=circle&logoColor=white" alt="OOP"/>
+  <img src="https://img.shields.io/badge/Data%20Structure-00599C?logo=datadog&logoColor=white" alt="Data Structure"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 <span style="color:blue">Muneeb's GitHub Stats</span>:
 
 ![Muneeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muneeb1998&show_icons=true&theme=radical)
 
