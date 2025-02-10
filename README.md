@@ -71,7 +71,3 @@ Let's connect and explore how I can contribute to your projects!
   <img src="https://github-readme-stats.vercel.app/api?username=Muneeb1998&show_icons=true&theme=blueberry" alt="Muneeb's GitHub Stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muneeb1998&layout=compact&theme=blueberry" alt="Top Languages" height="180"/>
 </p>
-
----
-
-*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
