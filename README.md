@@ -23,9 +23,6 @@ Let's connect and explore how I can contribute to your projects!
   <a href="https://www.linkedin.com/in/muneeb-mansoor/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.upwork.com/freelancers/~01ce924bcec6f4f6c6" target="_blank">
-    <img src="https://img.shields.io/badge/Upwork-6fda44?logo=upwork&logoColor=white" alt="Upwork" />
-  </a>
   <a href="https://muneeb-dev.me" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white" alt="Website" />
   </a>
